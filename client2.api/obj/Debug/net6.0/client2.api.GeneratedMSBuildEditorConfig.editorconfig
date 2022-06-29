@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = client2.api
+build_property.ProjectDir = C:\Users\aelha\Desktop\SupMti\MasterS8\asp\API_MINI_PROJ_HTTPCLIENTFACTORY\myApiV1.0\myApiV1.0\client2.api\
